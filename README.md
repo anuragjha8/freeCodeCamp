@@ -51,7 +51,7 @@ Here are our six core certifications:
 
 - Basic JavaScript
 - ES6
-- Regular Expressions
+- Regular Expressions(RegEx)
 - Debugging
 - Basic Data Structures
 - Algorithm Scripting
